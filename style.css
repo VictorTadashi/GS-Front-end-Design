@@ -51,6 +51,11 @@
         margin-left: 20px;
     }
 
+    & a:hover {
+        color: cornflowerblue;
+        transition: 0.3s;
+    }
+
 .home_text{
     display: flex;
     flex-direction: column;
